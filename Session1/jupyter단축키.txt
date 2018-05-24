@@ -1,0 +1,14 @@
+cmd창에서 쥬피터실행할 때, ipython notebook
+
+jupyter 단축키
+
+위에 한 줄 추가할 때, a
+밑에 한 줄추가할 때, b
+실행한 줄 지울 때, dd
+
+실행 shft + enter
+그자리에서 실행 ctrl + enter
+함수에 대한 메소드 알고 싶을 때, shift + tab
+
+
+성능 배열계산 및 데이터조작 라이브러리로 R의 데이터프레임과 연계가능한 것은 pandas

@@ -1,0 +1,5 @@
+regionid,product,week,qty,target
+A01,PRODUCT1,1,,20
+A01,PRODUCT1,2,2,
+A01,PRODUCT1,3,,10
+A01,PRODUCT1,3,4,
